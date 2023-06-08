@@ -1,5 +1,5 @@
 // 返回桌面的时候显示
-((function() {
+(function() {
 		var callbacks = [],
 			timeLimit = 50,
 			open = false;
@@ -14,7 +14,7 @@
 				});
 			}
 		}
-
+})
 		//function loop() {
 			//var startTime = new Date();
 			//debugger;
